@@ -8,9 +8,11 @@ Le projet est structuré comme suit :
 
 1. Benchmark de projets IoT :
    - Smart City Dortmund - 30.000 réverbères intelligents : Ce projet met en place un système de surveillance et de gestion individuelle de l'infrastructure d'éclairage public de la ville.
+   - 
      ![image](https://github.com/ibtissam01/IOT_Project/assets/89752387/61c386d1-8e71-4126-bef1-0dca2da265b0)
 
    - Projet de recherche scientifique : Smart flood detection system : Ce projet vise à détecter automatiquement les inondations et à couper automatiquement l'électricité en cas de besoin.
+   - 
      ![image](https://github.com/ibtissam01/IOT_Project/assets/89752387/02e66e2e-a740-4594-b3c0-ae4a968fd31b)
 
    - Projet universitaire : Poubelles intelligentes : Ce projet intègre des technologies avancées pour améliorer la gestion des déchets.
